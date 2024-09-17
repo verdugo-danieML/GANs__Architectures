@@ -62,6 +62,6 @@ The code and case studies in this repository are inspired by various research pa
 If you have any questions, suggestions, or feedback, please feel free to reach out:
 
 - Email: verdugo.rds@gmail.com
-- Blog: [Average AI Student blog](https://roberto-verdugo-blog.vercel.app/)
+- Blog: [Average AI Student blog](https://averageaistudent.com/)
 
 Happy exploring and generating with GANs!
