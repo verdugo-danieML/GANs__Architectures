@@ -18,8 +18,8 @@ The repository is organized into the following directories:
 
 For a detailed explanation of the theory and implementation of these GANs architectures, please refer to the following blog posts:
 
-1. [Understanding Vanilla GANs: Theory and Implementation](https://roberto-verdugo-blog.vercel.app/posts/001-vanilla-gans)
-2. [Deep Convolutional GANs (DCGANs): Theory and Implementation](https://roberto-verdugo-blog.vercel.app/posts/002-dc-gans)
+1. [Understanding Vanilla GANs: Theory and Implementation](https://averageaistudent.com/vanilla-gans/)
+2. [Deep Convolutional GANs (DCGANs): Theory and Implementation](https://averageaistudent.com/dc-gans/)
 
 These blog posts provide a comprehensive overview of each GANs architecture, including the underlying concepts, network architectures, training procedures, and case studies.
 
